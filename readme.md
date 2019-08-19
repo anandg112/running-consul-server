@@ -12,6 +12,6 @@ Accesible on:
 
 ```localhost:8500```
 
-IP address of the consul server: 
-```docker exec badger consul members```
+Member of consul server: 
+```docker exec consul-server consul members```
 
